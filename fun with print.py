@@ -6,10 +6,10 @@ print("'tis a pleasure to meet thee,", name)
 
 while True:
     question_answer = input("Wouldst thou learn to speak like Shakespeare? (Yes/No)\n>")
-    if question_answer == 'yes' or question_answer == 'Yes':
+    if question_answer == 'yes' or question_answer == 'Yes' or question_answer == 'YES':
         print("Let us begin!")
         break
-    elif question_answer == 'no' or question_answer == 'No':
+    elif question_answer == 'no' or question_answer == 'No' or question_answer==NO:
         print("Farewell!")
         sys.exit()
     else:
