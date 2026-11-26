@@ -103,6 +103,8 @@ if ans == op_list[op]:
     print("You're right!")
 elif ans != op_list[op]:
     print("NOO!")
+    print("Why would you think it's", ans,"??")
+    print("It's obviously", op_list[op])
     print("You just made us lose 57 TRILLION DOLLARS!!!")
     print("You're FIRED!!")
     os._exit(0)
