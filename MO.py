@@ -247,3 +247,10 @@ os._exit(0)
 
 
 #testing
+
+
+
+
+### EDIT:
+### There's some problem with the third clue. The questions are impossible. 
+# Note to self: Fix this later.
